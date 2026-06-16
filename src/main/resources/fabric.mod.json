@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "hudplus",
+  "version": "${version}",
+  "name": "HUD Plus",
+  "description": "HUD keren: koordinat, waypoint, jam, kompas, FPS, dan days played!",
+  "authors": ["Hikaru"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/hudplus/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.hudplus.HudPlusClient"]
+  },
+  "mixins": [
+    {
+      "config": "hudplus.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "category.hudplus": "HUD Plus",
+  "key.hudplus.toggle_hud": "Tampilkan/Sembunyikan HUD",
+  "key.hudplus.add_waypoint": "Tambah Waypoint",
+  "key.hudplus.open_waypoints": "Buka Daftar Waypoint",
+  "key.hudplus.toggle_coords": "Toggle Koordinat",
+  "key.hudplus.toggle_fps": "Toggle FPS",
+  "key.hudplus.open_layout": "Buka HUD Layout Editor"
+}

@@ -1,0 +1,9 @@
+{
+  "category.hudplus": "HUD Plus",
+  "key.hudplus.toggle_hud": "Toggle HUD",
+  "key.hudplus.add_waypoint": "Add Waypoint",
+  "key.hudplus.open_waypoints": "Open Waypoint List",
+  "key.hudplus.toggle_coords": "Toggle Coordinates",
+  "key.hudplus.toggle_fps": "Toggle FPS",
+  "key.hudplus.open_layout": "Open HUD Layout Editor"
+}
